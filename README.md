@@ -15,3 +15,5 @@ Explain how to use the provided code to train the machine learning model.
 **Model Evaluation:**
 
 Describe the metrics used to evaluate the performance of the model, such as accuracy, precision, recall, and F1-score.
+
+![IRIS Flower Classification](https://github.com/NomanAli5700/IRIS-FLOWER-CLASSIFICATION_Codesoft/assets/145667163/18446414-07af-49b9-b5a9-66c53510f941)
